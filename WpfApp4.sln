@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp4", "WpfApp4\WpfApp4.csproj", "{015D4CE0-E773-48D2-84C4-8674EA4866EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiceInfo", "PiceInfo\PiceInfo.csproj", "{3D622E18-B3EE-47C0-8AB7-3B3209E5200B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{015D4CE0-E773-48D2-84C4-8674EA4866EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{015D4CE0-E773-48D2-84C4-8674EA4866EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{015D4CE0-E773-48D2-84C4-8674EA4866EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{015D4CE0-E773-48D2-84C4-8674EA4866EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D622E18-B3EE-47C0-8AB7-3B3209E5200B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D622E18-B3EE-47C0-8AB7-3B3209E5200B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D622E18-B3EE-47C0-8AB7-3B3209E5200B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D622E18-B3EE-47C0-8AB7-3B3209E5200B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBDA4303-73AF-4FE6-A0E2-D57D6AA71503}
+	EndGlobalSection
+EndGlobal
